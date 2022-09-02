@@ -37,22 +37,11 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "ohxOO6VskYv20Kuf-ywIZVR3MpuXhk",
-      useTemplateId: "Wue80GrtY1nAia24tam-FDxZF9WNx39pwcBc0LMpANnu8",
+      id: "ooPw16Bu5CF3SnU_FNF_h7kY98R8",
+      useTemplateId: "sNwmS4b9TnmNchJgPyXSOHRmzkZxRo2vR1yZkW5lzSA",
       openUrl: "https://baidu.com"
     }, 
-    {
-      name: "老婆2",
-      id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
-      useTemplateId: "zjVglIuCXo4CsraXW3Eio1iP7sZJ7IQEES9lDsgc4yOU",
-      openUrl: "https://weibo.com"
-    }, 
-    {
-      name: "老婆3", 
-      id: "ohxOO63VskYv0Kuf-ywIZV3RMpuXhk", 
-      useTemplateId: "Wue80GrtY1nA3ia4tam-FDxZF9WNx9pw3cBc0LMpANnu8",
-      openUrl: "https://wangxinleo.cn"
-    }, 
+   
   ],
 
   /**
